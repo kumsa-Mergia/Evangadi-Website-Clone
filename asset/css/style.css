@@ -1,0 +1,168 @@
+.form-section{
+    width: 1000px;
+    height: 320px;
+    background-image:url(../img/back.png);
+    margin: 20px auto;
+    
+}
+.box{
+    width: 630px;
+    height: 280px;
+    background-color: white);
+    margin: 0px auto;
+    top: 20px;
+    position: center;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align:center;
+    padding-top: 20px;
+}
+.login .submit{
+    background-color: rgb(37, 37, 204);
+    color: white;
+    padding: 5px 30px 5px 30px ;
+    
+}
+ a{
+    color: rgb(255, 168, 6);
+}
+.box p b{
+    color: rgb(31, 31, 43);
+    font-weight: bolder;
+    font-size: larger;
+}
+.about, .footor, .box-Evangadi, .phase, .step, .scolar, .interview, .tech{
+    background-color: white);
+    margin: 0px auto;
+    top: 20px;
+    position: center;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px;  
+    width: 880px;
+}
+/* ABOUT*/
+.about .orange{
+    color: orange;
+}
+.about p b{
+    color: rgb(31, 31, 43);
+    font-weight: bolder;
+    font-size: larger;
+}
+.about button{
+    background-color: orange;
+    color: white;
+    padding: 5px 30px 5px 30px ;
+}
+/* EVANGADI*/
+.Evangadi{
+    color: rgb(31, 31, 43);
+    font-weight: bolder;
+    font-size: x-large;
+    padding-left: 350px;
+}
+.box-Evangadi{
+    background-color: orange;
+    color: white;
+    height: 710px;
+    width: 400px;
+    padding: 20px;
+}
+.box-Evangadi .most1{
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+}
+.box-Evangadi .most{
+    color: black;
+    font-weight: bolder;
+}
+/*BUTTON*/
+button{
+    background-color: rgb(86, 86, 214);
+    color: white;
+    padding: 10px 35px 10px 35px ;
+    margin-left: 350px;
+    font-size: large;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+/* PHASE*/
+.phase{
+    padding: 20px;
+    width: 780px;
+    height: 280px;
+}
+.phase .phase1 b, .phase2 b, .phase3 b{
+    color: rgb(31, 31, 43);
+    font-weight: bolder;
+    font-size: large;
+}
+/*STEP*/
+.step p b{
+    color: rgb(31, 31, 43);
+    font-weight: bolder;
+    font-size: large;
+}
+/*Scolar*/
+.scolar{
+width: 720px;
+margin-top: 25px;
+
+}
+.scolar .b{
+    color: rgb(31, 31, 43);
+    font-weight: bolder;
+    text-align: center;
+}
+.scolar .one{
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+}
+.scolar .one b{
+    font-size: large;
+}
+/*interview*/
+.interview{
+    width: 850px;
+    margin-top: 25px;   
+}
+.interview b{
+    color: rgb(31, 31, 43);
+    font-weight: bolder;  
+}
+.interview .interview-one{
+    text-align: center;
+}
+.interview-one{
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.tech{
+    height: 300px;
+    width: 900px;  
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+/* FOOTER*/
+
+.social img{
+    width: 35px;
+    height: 35px;
+}
+.footor{
+    height: 300px;
+    width: 900px;
+    background-color: rgb(41, 41, 58);  
+    color: white;
+}
+.footor p{
+    color: rgb(240, 243, 247);
+}
+.footor .bold{
+   font-weight: bolder;
+}
